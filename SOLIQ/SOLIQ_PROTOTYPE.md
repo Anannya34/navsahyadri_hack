@@ -238,17 +238,19 @@ This mirrors **strict fintech-tier session security** — ensuring the prototype
 
 ---
 
-### 📌 Quick Reference — Simulation → Production Swap Map
+# Production Integration Roadmap
 
-| Module | File | Current (Prototype) | Production Target |
-| :--- | :--- | :--- | :--- |
-| **Telemetry feed** | `VirtualSolarDashboardScreen.js` | `setInterval` + random offsets | WebSocket / MQTT handler |
-| **Subscription plans** | `VirtualSolarMarketScreen.js` | Hardcoded / Mock data | `fetch` → subscriptions API |
-| **Payment action** | `VirtualSolarMarketScreen.js` | Mock / Logs | Razorpay checkout |
-| **Product catalogue** | `VirtualHardwareMarketScreen.js` | Static JSON | `fetch` → products API |
-| **Ledger data** | `VirtualSolarKhataScreen.js` | Local State | `fetch` → billing API |
-| **Auth boundary** | `App.js` | Dummy Auth | JWT via Supabase |
-| **Global state** | `RenterMainLayout.js` | Local State | Redux / Zustand / Supabase sync |
+
+| Module | File | Current Work (Production Target) |
+| :--- | :--- | :--- |
+| **Telemetry feed** | `VirtualSolarDashboardScreen.js` | WebSocket / MQTT handler |
+| **Subscription plans** | `VirtualSolarMarketScreen.js` | `fetch` → subscriptions API |
+| **Payment action** | `VirtualSolarMarketScreen.js` | Razorpay checkout |
+| **Product catalogue** | `VirtualHardwareMarketScreen.js` | `fetch` → products API |
+| **Ledger data** | `VirtualSolarKhataScreen.js` | `fetch` → billing API |
+| **Auth boundary** | `App.js` | JWT via Supabase |
+| **Global state** | `RenterMainLayout.js` | Redux / Zustand / Supabase sync |
+
 
 
 ---
