@@ -587,7 +587,7 @@ The SolIQ app is organized around **5 core tabs**, shared across both user paths
 
 | Resource | Link |
 |---|---|
-| 📦 GitHub Repository | [github.com/amitryedage/SOLIQ_App](https://github.com/amitryedage/SOLIQ_App) |
+| 📦 GitHub Repository | [github.com/amitryedage/SOLIQ_App](https://github.com/Anannya34/navsahyadri_hack) |
 | 🎬 Demo Video (3 min) | [Google Drive](https://drive.google.com/drive/folders/1vyzSwbaI5ujFdU2tr6KMb0NDWFoHyCA?usp=drive_link) |
 | 📊 Master Drive | [Google Drive](https://drive.google.com/drive/folders/1vyzSwbaI5ujFdU2tr6KMb0NDWFoHyCA?usp=drive_link) |
 
