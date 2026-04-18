@@ -10,7 +10,7 @@
 
 <br/>
 
-[![INSTINCT 4.0](https://img.shields.io/badge/🏆_INSTINCT_4.0-Hackathon_Submission-1a3c5e?style=for-the-badge)](https://github.com/amitryedage/SOLIQ_App)
+
 [![Team](https://img.shields.io/badge/👥_Team-Enelink-2d6a4f?style=for-the-badge)](https://github.com/amitryedage/SOLIQ_App)
 [![Problem Statement](https://img.shields.io/badge/⚡_PS-Energy_as_a_Service-f4a261?style=for-the-badge)](#)
 [![Platform](https://img.shields.io/badge/📱_Platform-Flutter_|_React_Native-52b788?style=for-the-badge)](#)
@@ -19,8 +19,8 @@
 <br/>
 
 [**🎬 Watch Demo (3 min)**](https://drive.google.com/drive/folders/1vyzSwbaI5ujFdU2tr6KMb0NDWFoHyCA?usp=drive_link) &nbsp;·&nbsp;
-[**📦 GitHub Repository**](https://github.com/amitryedage/SOLIQ_App) &nbsp;·&nbsp;
-[**📊 Master Drive**](https://drive.google.com/drive/folders/1vyzSwbaI5ujFdU2tr6KMb0NDWFoHyCA?usp=drive_link)
+[**📦 GitHub Repository**](https://github.com/Anannya34/navsahyadri_hack) &nbsp;·&nbsp;
+[**📊 Master Drive**](https://drive.google.com/drive/folders/1_dFqDJgAAtRr_o_BS27Zlsc9Khti1CV1?usp=sharing)
 
 <br/>
 
@@ -572,7 +572,7 @@ The SolIQ app is organized around **5 core tabs**, shared across both user paths
 |---|---|
 | 📦 GitHub Repository | [github.com/Anannya34/navsahyadri_hack](https://github.com/Anannya34/navsahyadri_hack) |
 | 🎬 Demo Video (3 min) | [Google Drive](https://drive.google.com/drive/folders/1vyzSwbaI5ujFdU2tr6KMb0NDWFoHyCA?usp=drive_link) |
-| 📊 Master Drive | [Google Drive](https://drive.google.com/drive/folders/1vyzSwbaI5ujFdU2tr6KMb0NDWFoHyCA?usp=drive_link) |
+| 📊 Master Drive | [Google Drive](https://drive.google.com/drive/folders/1_dFqDJgAAtRr_o_BS27Zlsc9Khti1CV1?usp=sharing) |
 
 ---
 
