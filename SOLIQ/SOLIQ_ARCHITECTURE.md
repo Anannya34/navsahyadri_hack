@@ -209,10 +209,6 @@ The **billing source of truth**. Performs active calculations on:
 
 ---
 
-### ADR-02 — Simulated Telemetry via `useEffect` Intervals
-**Decision:** Dashboard uses client-side randomised intervals rather than a live WebSocket stream.
-
-**Rationale:** Prototype stage — decouples UI validation from backend readiness. Designed as a drop-in replacement; swapping the interval generator for a Supabase Realtime subscription requires changes only within `VirtualSolarDashboardScreen.js`.
 
 ---
 
