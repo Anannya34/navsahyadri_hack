@@ -565,23 +565,6 @@ The SolIQ app is organized around **5 core tabs**, shared across both user paths
 - [ ] **AI Forecasting v2** — 48-hour generation and consumption forecasting with weather APIs
 - [ ] **PM Surya Ghar Integration** — Subsidy routing for eligible Path A homeowners
 
----
-
-## 👥 Team
-
-**Team Enelink** — INSTINCT 4.0, IntelliSmart × IIT Delhi Energy Society
-
-| Name | Role |
-|---|---|
-| **Mr. Tanmay Dhanaji Patil** | Team Leader |
-
-**Competition:**
-- **Event**: INSTINCT 4.0 — Leading Innovation Challenge & Hackathon, Energy Sector
-- **Organizer**: IntelliSmart
-- **Powered By**: H2S — Energy Society, IIT Delhi
-- **Problem Statement**: *Energy As a Service — Digital Model for Providing Energy as a Service*
-
----
 
 ## 🔗 Links
 
