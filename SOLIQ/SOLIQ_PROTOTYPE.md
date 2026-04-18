@@ -240,15 +240,15 @@ This mirrors **strict fintech-tier session security** — ensuring the prototype
 
 ## 📌 Quick Reference — Simulation → Production Swap Map
 
-| Module | File | Current (Prototype) | Replace With |
+| Module | File | Current (Prototype) 
 |---|---|---|---|
 | Telemetry feed | `VirtualSolarDashboardScreen.js` | `setInterval` + random offsets | WebSocket / MQTT handler |
-| Subscription plans | `VirtualSolarMarketScreen.js` | Hardcoded local arrays | `fetch` → subscriptions API |
-| Payment action | `VirtualSolarMarketScreen.js` | Immediate state bump | Razorpay checkout |
-| Product catalogue | `VirtualHardwareMarketScreen.js` | `PRODUCTS[]` const block | `fetch` → products API |
-| Ledger data | `VirtualSolarKhataScreen.js` | Hardcoded seed constants | `fetch` → billing API |
-| Auth boundary | `App.js` | Superficial state gate | JWT via Supabase / Firebase |
-| Global state | `RenterMainLayout.js` | `useState` hooks | Redux / Zustand / Supabase sync |
+| Subscription plans | `VirtualSolarMarketScreen.js` `fetch` → subscriptions API |
+| Payment action | `VirtualSolarMarketScreen.js` | Razorpay checkout |
+| Product catalogue | `VirtualHardwareMarketScreen.js` | `fetch` → products API |
+| Ledger data | `VirtualSolarKhataScreen.js` |`fetch` → billing API |
+| Auth boundary | `App.js` |  JWT via Supabase  |
+| Global state | `RenterMainLayout.js` | Redux / Zustand / Supabase sync |
 
 ---
 
