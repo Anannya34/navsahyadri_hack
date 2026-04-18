@@ -28,15 +28,15 @@
 
 The current SOLIQ build is a **High-Fidelity Interaction Prototype** — not a production shell. The distinction matters:
 
-| Attribute | This Prototype | Production Target |
+| Attribute | This Prototype |
 |---|---|---|
-| **UI & Animations** | ✅ Fully implemented | ✅ Same |
-| **Navigation** | ✅ Custom FSM router | ✅ Same |
-| **Telemetry Data** | 🔁 Simulated via `setInterval` | 🔌 Live WebSocket / MQTT |
-| **Financial Data** | 🔁 Hardcoded mock arrays | 🔌 Backend relational DB |
-| **Authentication** | ⚠️ Superficial session gate | 🔐 JWT via Supabase / Firebase |
-| **Payments** | ⚠️ Immediate state bump | 💳 Razorpay checkout integration |
-| **State Management** | 📦 Local `useState` hooks | 📦 Redux / Zustand / Supabase sync |
+| **UI & Animations** | ✅ Fully implemented | 
+| **Navigation** | ✅ Custom FSM router | 
+| **Telemetry Data** | 🔌 Live WebSocket / MQTT |
+| **Financial Data** |  🔌 Backend relational DB |
+| **Authentication** |   🔐 JWT via Supabase  |
+| **Payments** |  💳 Razorpay checkout integration |
+| **State Management** |  📦 Redux / Zustand / Supabase sync |
 
 **Primary prototype goals:**
 - Validate the **dual-funnel user journey** (Owner vs. Renter/Digital Resident)
