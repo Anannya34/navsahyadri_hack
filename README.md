@@ -404,7 +404,7 @@ SolIQ operates two parallel revenue models — designed to maximize margin while
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/amitryedage/SOLIQ_App.git
+git clone https://github.com/Anannya34/navsahyadri_hack
 cd SOLIQ_App
 ```
 
